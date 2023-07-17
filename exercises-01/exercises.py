@@ -28,7 +28,8 @@ def draw_square(n=2):
 # Exercício 4: Crie uma função que receba uma lista de nomes
 # e retorne o nome com a maior quantidade de caracteres.
 def find_biggest_name(names):
-    """Retorna elemento que contem o maior número de caracteres numa lista de nomes"""
+    """Retorna elemento que contem o maior número de caracteres
+    numa lista de nomes"""
     # biggest_name = ""
     # for name in names:
     #     if len(name) > len(biggest_name):
